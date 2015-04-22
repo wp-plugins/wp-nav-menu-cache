@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create cache for dynamically generated navigation menu HTML and serve from a static file. It reduces some MySQL queries and increases page loading speed.
+Create cache for dynamically generated navigation menu HTML and serve from a static file. It reduces some MySQL queries and increases page speed.
 
 == Description ==
 
