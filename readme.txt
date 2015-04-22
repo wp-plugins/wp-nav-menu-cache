@@ -2,8 +2,8 @@
 Contributors: onetarek
 Tags: cache, caching, performance, web performance optimization, wp-cache, page speed, quick cache, cache dynamic menu, navigation menu, wp nav menu, reduce query, static menu, wordpress optimization tool
 Requires at least: 3.8.0
-Tested up to: 4.1.1
-Stable tag: 1.0
+Tested up to: 4.1.2
+Stable tag: 1.1
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,11 +31,17 @@ Just install and activate.This plugin does not have any settings page, so nothin
 
 == Changelog ==
 
+= 1.1 =
+* Drecrase priority of used filters
+
 = 1.0 =
 * Initial release
 
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Drecrase priority of used filters
 
 = 1.0 =
 * Initial release
